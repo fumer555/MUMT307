@@ -2,7 +2,9 @@
 The final project of MUMT 307 in Winter 2020
 
 Final project
-Rachmaninoff goes to Cage
+
+Title: Rachmaninoff goes to Cage
+
 Zi Hang Yin
 
 The objective of my final project is to generate a short music sample by using several synthetic techniques learned from the class MUMT 307. A large component of this project is about audio processing. There is also a little music control and interaction components. 
